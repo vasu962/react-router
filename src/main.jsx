@@ -43,7 +43,7 @@ const router = createBrowserRouter(
       <Route path="contact" element={<Contact />} />
       <Route path="user/:userid" element={<User />} />
       <Route
-        loader={async () => {
+        loader={ async () => {
           const response = await fetch("https://api.github.com/users/vasu962");
           return response.json();
         }}
