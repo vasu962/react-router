@@ -1,5 +1,5 @@
 # Routing application
-## [Live](https://vasu962.github.io/react-router/)
+## [Live](https://react-router-seven-rose.vercel.app/)
 ![routing](https://i.postimg.cc/PfMBJJ4j/Screenshot-2024-03-23-115727.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
